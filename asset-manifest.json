@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/developer/static/css/main.13ab4354.chunk.css",
+    "main.js": "/developer/static/js/main.99fa0dce.chunk.js",
+    "main.js.map": "/developer/static/js/main.99fa0dce.chunk.js.map",
+    "runtime-main.js": "/developer/static/js/runtime-main.20e8fc3f.js",
+    "runtime-main.js.map": "/developer/static/js/runtime-main.20e8fc3f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/developer/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b520f27f.chunk.js": "/developer/static/js/2.b520f27f.chunk.js",
+    "static/js/2.b520f27f.chunk.js.map": "/developer/static/js/2.b520f27f.chunk.js.map",
+    "index.html": "/developer/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/developer/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.13ab4354.chunk.css.map": "/developer/static/css/main.13ab4354.chunk.css.map",
+    "static/js/2.b520f27f.chunk.js.LICENSE.txt": "/developer/static/js/2.b520f27f.chunk.js.LICENSE.txt",
+    "static/media/app.5f8c294e.jpg": "/developer/static/media/app.5f8c294e.jpg",
+    "static/media/marketting.ccccd6d9.jpg": "/developer/static/media/marketting.ccccd6d9.jpg",
+    "static/media/rocket.526ff1ff.jpg": "/developer/static/media/rocket.526ff1ff.jpg",
+    "static/media/website.8076e1cf.jpg": "/developer/static/media/website.8076e1cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20e8fc3f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b520f27f.chunk.js",
+    "static/css/main.13ab4354.chunk.css",
+    "static/js/main.99fa0dce.chunk.js"
+  ]
+}

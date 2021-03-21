@@ -5,11 +5,15 @@ import web from "../src/images/rocket.jpg";
 const Home = () =>{
   return(
     <React.Fragment>
-             <Sidebar
+               <Sidebar
               name="Grow your business with"
-             imgsrc={web} visit="/service"
+             imgsrc={web}
              btname="Contact"
-       link="./contact"
+             butname="Service"
+             bttname="About"
+             link="./contact"
+             link1="./service"
+             link2="./about"
              />
     </React.Fragment>
   );

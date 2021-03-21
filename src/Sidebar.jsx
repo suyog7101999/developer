@@ -22,10 +22,16 @@ const Sidebar = (props) =>{
                                <NavLink to={props.btname} className="btn-get-started">{props.btname}</NavLink>
                            </div>
       <div className="mt-3">
-                               <a href="./about" className="btn-get-started">{props.butname}</NavLink>
+                               <a href="./about" className="btn-get-started">{props.butname}</a>
                            </div>
                        </div>
-              
+                  <div className="mt-3">
+                               <a href="./service" className="btn-get-started">{props.bname}</a>
+                           </div>
+     <div className="mt-3">
+                               <a href="./contact" className="btn-get-started">{props.buttonname}</a>
+                           </div>
+                       </div>
               <div className="col-lg-6 order-1 order-lg-2 header-img">
                  <img src={props.imgsrc}
                   className="img-fluid animated"

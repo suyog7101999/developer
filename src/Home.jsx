@@ -9,6 +9,7 @@ const Home = () =>{
               name="Grow your business with"
              imgsrc={web} visit="/service"
              btname="Get Started"
+             butname="About"
              />
     </React.Fragment>
   );

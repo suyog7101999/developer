@@ -4,7 +4,7 @@ import About from './About';
 import Service from './Service';
 import Contact from './Contact';
 import Navbar from './Navbar';
-import Footer from './Footer';
+
 import { Switch,Route, Redirect } from 'react-router-dom/cjs/react-router-dom.min';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/bootstrap/dist/js/bootstrap.bundle';

@@ -19,7 +19,7 @@ const Sidebar = (props) =>{
                              We are the team of talented developer
                              </h2>
                            <div className="mt-3">
-                               <NavLink to={props.btname} className="btn-get-started">{props.btname}</NavLink>
+                               <NavLink to={props.link} className="btn-get-started">{props.btname}</NavLink>
                            </div>
                        </div>
               <div className="col-lg-6 order-1 order-lg-2 header-img">

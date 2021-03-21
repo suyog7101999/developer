@@ -8,7 +8,8 @@ const Home = () =>{
              <Sidebar
               name="Grow your business with"
              imgsrc={web} visit="/service"
-             btname="Get Started"
+             btname="Contact"
+       link="./contact"
              />
     </React.Fragment>
   );

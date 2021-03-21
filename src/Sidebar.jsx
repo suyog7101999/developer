@@ -18,8 +18,17 @@ const Sidebar = (props) =>{
                            <h2 className="my-3">
                              We are the team of talented developer
                              </h2>
+                                <div className="mt-3">
+                               <a href={props.link} className="btn-get-started">{props.btname}</a>
+                               
+                           </div>
                            <div className="mt-3">
-                               <NavLink to={props.link} className="btn-get-started">{props.btname}</NavLink>
+                               <a href={props.link1} className="btn-get-started">{props.butname}</a>
+                               
+                           </div>
+                           <div className="mt-3">
+                               <a href={props.link2} className="btn-get-started">{props.bttname}</a>
+                               
                            </div>
                        </div>
               <div className="col-lg-6 order-1 order-lg-2 header-img">
